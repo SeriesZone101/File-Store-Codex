@@ -28,7 +28,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [@codexbotzsupport ](https://www.telegram.dog/codexbotzsupport)**
+**If you need any more modes in repo or If you find out any bugs, mention in [Channel ](https://www.telegram.dog/movieszzzone)**
 
 ### Features
 - Fully customisable.
@@ -104,7 +104,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/codexbotzsupport) For Support/Assistance And Our [Channel](https://www.telegram.dog/codexbotz) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/movieszzzone) For Support/Assistance And Our [Channel](https://www.telegram.dog/movieszzzone) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
@@ -125,3 +125,5 @@ published by the Free Software Foundation, either version 3 of the License, or
 ##
 
    **Star this Repo if you Liked it ⭐⭐⭐**
+
+Thanks to CodeXsupport
