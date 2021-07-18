@@ -31,7 +31,7 @@ class Bot(Client):
             except:
                 self.LOGGER(__name__).warning("Bot can't Export Invite link from Force Sub Channel!")
                 self.LOGGER(__name__).warning("Please Double check the FORCE_SUB_CHANNEL value and Make sure Bot is Admin in channel with Invite Users via Link Permission")
-                self.LOGGER(__name__).info("\nBot Stopped. Join https://t.me/CodeXBotzSupport for support")
+                self.LOGGER(__name__).info("\nBot Stopped. Contact https://t.me/DeepakV111 for support")
                 sys.exit()
         try:
             db_channel = await self.get_chat(CHANNEL_ID)
