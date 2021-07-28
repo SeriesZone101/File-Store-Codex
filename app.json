@@ -8,7 +8,7 @@
     "sharing"
   ],
   "repository": "https://github.com/SeriesZone101/File-Store-Codex",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "logo": "https://telegra.ph/file/55d34788d576be8ec8ca3.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
